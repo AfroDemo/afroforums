@@ -8,6 +8,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+
 h1 {
     font-family: 'Oswald', sans-serif;
 }
@@ -117,3 +118,16 @@ p {
       position: absolute;
       bottom: 0;
   }
+    footer{
+        height: 60px;
+        color: antiquewhite;
+        background: #aa2764;
+  }
+  footer a{
+      color: aliceblue;
+      text-decoration: none;
+  }
+  footer a:hover{
+    color: #222;
+    text-decoration: none;
+}
